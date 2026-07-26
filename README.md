@@ -1,4 +1,5 @@
 # Atlas32.img
+## WARNING DO NOT USE BAT FILES USE SH SCRIPTS ELSE ERROR
 
 ![Logo](logo.png)
 
